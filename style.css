@@ -1,0 +1,322 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.box{
+    height: 95%;
+    width: 60%;
+    background-color: rgba(216, 112, 147, 0.641);
+    position: absolute;
+    left: 20%;
+    margin-top: 1%;
+    border-radius: 15px;
+
+}
+.box1{
+    height: 90%;
+    width: 38%;
+    background-color: rgba(80, 80, 177, 0.666);
+    position: absolute;
+    left: 10%;
+    margin-top: 1%;
+    border-radius: 23px;
+}
+.one{
+    position: absolute;
+    margin-top: 2%;
+    color: white;
+    left: 4%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button1{
+    position: absolute;
+    margin-top: 15%;
+    padding: 6px 130px;
+    border-radius: 8px;
+    left: 4%;
+    border: none;
+
+    
+}
+li{
+    position: absolute;
+    color: white;
+    margin-top: 4%;
+    right: 2%;
+    font-size: 28px;
+    list-style: none;
+    
+}
+
+.box2{
+    height: 80%;
+    width: 38%;
+    background-color: rgba(80, 80, 177, 0.666);
+    position: absolute;
+    left: 10%;
+    margin-top: 1%;
+    border-radius: 23px;
+    
+}
+.box3{
+    height: 99%;
+    width: 96%;
+    background-color: white;
+    position: absolute;
+    left: 115%;
+    margin-top: 13%;
+    border-radius: 23px;
+}
+.list1{
+    position: absolute;
+    left: 2%;
+    margin-top:14% ;
+    color: black;
+    font-size: 18px;
+    
+}
+
+
+.img7{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 10%;
+    border-radius: 22px;
+    left: 13%;
+    object-fit: cover;
+
+
+}
+.seven{
+    position: absolute;
+    margin-top: 12%;
+    left: 32%;
+    font-size: 15px;
+    
+}
+.eight{
+    position: absolute;
+    margin-top: 17%;
+    left: 33%;
+    font-size: 15px;
+    color: grey;
+}
+.list2{
+
+position: absolute;
+    right: 3%;
+    margin-top:14% ;
+    color: black;
+    font-size: 18px;
+    
+}
+.nine{
+    position: absolute;
+    margin-top: 30%;
+    left: 36%;
+    font-size: 15px;
+    color: grey;
+}
+
+.box5{
+    height: 14%;
+    width: 58%;
+    background-color: rgba(50, 50, 211, 0.671);
+    margin-top: 37%;
+    position: absolute;
+    right: 2%;
+    
+    border-radius: 11% 1%;
+}
+.h3{
+    position: absolute;
+    margin-top: 38%;
+    right: 1%;
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+}
+.box6{
+    height: 10%;
+    width: 70%;
+    background-color: beige;
+    position: absolute;
+    margin-top: 68%;
+    left: 2%;
+    border-radius: 11% 1%;
+}
+.h4{
+    position: absolute;
+    margin-top: 70%;
+    color: white;
+    left: 1%;
+    font-family: sans-serif;
+}
+.img9{
+    height: 15%;
+    width: 40%;
+    position: absolute;
+    margin-top: 92%;
+    object-fit: cover;
+    right: 2%;
+    border-radius: 11% 1%;
+}
+.img10{
+    height: 6%;
+    width: 19%;
+    position: absolute;
+    margin-top: 123%;
+    left: 3%;
+    object-fit: cover;
+}
+.img11{
+    height: 6%;
+    width: 15%;
+    position: absolute;
+    margin-top: 123%;
+    left: 18%;
+    object-fit: cover;
+}
+.img12{
+    height: 6%;
+    width: 15%;
+    position: absolute;
+    margin-top: 123%;
+    left: 28%;
+    object-fit: cover;
+}
+.img13{
+    height: 6%;
+    width: 15%;
+    position: absolute;
+    margin-top: 123%;
+    left: 40%;
+    object-fit: cover;
+}
+.img14{
+    height: 15%;
+    width: 50%;
+    position: absolute;
+    margin-top: 135%;
+    right: 2%;
+    object-fit: cover;
+}
+.box4{
+    height: 75%;
+    width: 38%;
+    background-color:white;
+    position: absolute;
+    left: 10%;
+    margin-top: 13%;
+    border-radius: 25% 1%;
+    
+}
+.img1{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 17%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.first{
+    position: absolute;
+    margin-top: 20%;
+    left: 24%;
+    font-size: 15px;
+}
+.img2{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 34%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.second{
+    position: absolute;
+    margin-top: 37%;
+    left: 24%;
+    font-size: 15px;
+}
+
+.img3{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 52%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.third{
+    position: absolute;
+    margin-top: 55%;
+    left: 24%;
+    font-size: 15px;
+}
+
+.img4{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 70%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.fourth{
+    position: absolute;
+    margin-top: 73%;
+    left: 24%;
+    font-size: 15px;
+}
+
+
+.img5{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 87%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.fifth{
+    position: absolute;
+    margin-top: 89%;
+    left: 24%;
+    font-size: 15px;
+}
+
+
+.img6{
+    height: 9%;
+    width: 14% ;
+    position: absolute;
+    margin-top: 105%;
+    border-radius: 20px;
+    left: 4%;
+    object-fit: cover;
+
+}
+.six{
+
+    position: absolute;
+    margin-top: 108%;
+    left: 24%;
+    font-size: 15px;
+}
